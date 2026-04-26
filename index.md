@@ -14,16 +14,16 @@ We wanted to analyze the class data to see if it supported our project proposal.
 
 To do this we used the following four charts: 
 
-<img src="/Users/isabellascurria/Desktop/comp 110/personal-site.github.io/graph1.png" alt="Chart 1"  width="500"/>
+<img src="graph1.png" alt="Chart 1"  width="500"/>
 In the figure above, CS majors and non-CS majors ranked their interest in the course about equally. However, raw counts could be misleading because there are way more non-CS majors than CS majors. 
 
-<img src="/Users/isabellascurria/Desktop/comp 110/personal-site.github.io/graph2.png" alt="Chart 2"  width="500"/>
+<img src="graph2.png" alt="Chart 2"  width="500"/>
 To explore whether Non-CS Majors and CS-Majors find the course similarly valuable to them. We'll count how many students from each major type (non-CS and CS) gave each 'valuable' rating. We'll use 'count' to find out the number of each response, then filter to separate the two majors. This is represented above in a bar graph.
 
-<img src="/Users/isabellascurria/Desktop/comp 110/personal-site.github.io/graph3.png" alt="Chart 2"  width="500"/>
+<img src="graph3.png" alt="Chart 2"  width="500"/>
 To understand whether CS and non-CS find COMP 110 more interesting or more valuable, we will use a catplot (categorical relationship) to plot the number of CS and non-CS students that selected each rating on the survey. 
 
-<img src="/Users/isabellascurria/Desktop/comp 110/personal-site.github.io/graph4.png" alt="Chart 2"  width="500"/>
+<img src="graph4.png" alt="Chart 2"  width="500"/>
 At this point, we googled seaborn plots to see the extent of what we could do with this package. We saw this one on the website and replicated it below. What was cool about this plot is that it puts all four variables together. We are able to see the comparitive numbers of CS and non-CS who find the course interesting vs. effective. Though we were just playing around with the capabilities of seaborn, this plot is actually interesting. It shows that people with CS majors ranked the exercises more effective and more interesting than the non-CS majors, despite there just simply being more non-CS majors. 
 
 ## Conclusion:
